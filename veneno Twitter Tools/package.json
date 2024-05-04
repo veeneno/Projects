@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "edge": "^7.10.1",
+    "prompt-sync": "^4.2.0",
+    "puppeteer-core": "^22.6.5"
+  }
+}
